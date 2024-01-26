@@ -1,3 +1,8 @@
+#!/usr/bin/env python3
+
+""" Page index module
+"""
+
 def index_range(page: int, page_size: int) -> tuple:
     """
     Return a tuple of size two containing a start index
